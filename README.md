@@ -8,6 +8,8 @@ The objective is to cover zksync-web3 APIs extensively with more commands.
 
 ### Demo video
 
+https://vimeo.com/807329509
+
 ### To run
 
 clone this repository and get into the project folder.
